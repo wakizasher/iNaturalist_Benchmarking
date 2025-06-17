@@ -1,0 +1,3 @@
+Dataset,Accuracy,Total_Images,Correct_Predictions,Processing_Time_Seconds,Processing_Time_Formatted,Avg_Time_Per_Image,Errors
+Filtered,93.33333333333333,30,28,8.684182405471802,8.7s,0.28947274684906005,0
+Unfiltered,94.33333333333334,600,566,154.41737580299377,2m 34s,0.25736229300498964,0

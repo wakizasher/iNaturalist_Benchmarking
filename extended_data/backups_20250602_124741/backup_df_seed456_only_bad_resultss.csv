@@ -1,0 +1,4 @@
+image_name,species,file_path,image_path,blurry_image,humans_present,other_taxa,niqe_score
+Leucanthemum_vulgare_101517.jpg,Leucanthemum vulgare,E:\iNaturalist	est_images_200\seed_456\Leucanthemum_vulgare\Leucanthemum_vulgare_101517.jpg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_456/Leucanthemum_vulgare/Leucanthemum_vulgare_101517.jpg,No,No,Yes,6.936462715781871
+Leucanthemum_vulgare_88563.jpg,Leucanthemum vulgare,E:\iNaturalist	est_images_200\seed_456\Leucanthemum_vulgare\Leucanthemum_vulgare_88563.jpg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_456/Leucanthemum_vulgare/Leucanthemum_vulgare_88563.jpg,No,No,Yes,6.900953690828218
+Leucanthemum_vulgare_109175.jpeg,Leucanthemum vulgare,E:\iNaturalist	est_images_200\seed_456\Leucanthemum_vulgare\Leucanthemum_vulgare_109175.jpeg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_456/Leucanthemum_vulgare/Leucanthemum_vulgare_109175.jpeg,Yes,No,No,6.1482904945628665

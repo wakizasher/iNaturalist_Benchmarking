@@ -1,0 +1,5 @@
+image_name,species,file_path,image_path,blurry_image,humans_present,other_taxa,niqe_score
+Bellis_perennis_18869.jpg,Bellis perennis,E:\iNaturalist	est_images_200\seed_123\Bellis_perennis\Bellis_perennis_18869.jpg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_123/Bellis_perennis/Bellis_perennis_18869.jpg,No,Yes,No,6.144828470266642
+Bellis_perennis_10116.jpeg,Bellis perennis,E:\iNaturalist	est_images_200\seed_123\Bellis_perennis\Bellis_perennis_10116.jpeg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_123/Bellis_perennis/Bellis_perennis_10116.jpeg,No,No,Yes,7.738376694519405
+Bellis_perennis_75565.jpeg,Bellis perennis,E:\iNaturalist	est_images_200\seed_123\Bellis_perennis\Bellis_perennis_75565.jpeg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_123/Bellis_perennis/Bellis_perennis_75565.jpeg,No,No,Yes,6.091941395753652
+Bellis_perennis_34226.jpeg,Bellis perennis,E:\iNaturalist	est_images_200\seed_123\Bellis_perennis\Bellis_perennis_34226.jpeg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_123/Bellis_perennis/Bellis_perennis_34226.jpeg,No,No,Yes,6.07003292016058
