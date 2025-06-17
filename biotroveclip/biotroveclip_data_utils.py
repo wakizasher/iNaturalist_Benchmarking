@@ -34,7 +34,7 @@ def load_and_validate_ground_truth(csv_path, dataset_name):
     df = pd.read_csv(csv_path)
 
     # Validate columns
-    required_columns = ['file_path', 'flower_name']
+    required_columns = ['file_path', 'species']
     missing_columns = [col for col in required_columns if col not in df.columns]
     if missing_columns:
         raise ValueError(f"❌ Missing columns in {dataset_name}: {missing_columns}")
@@ -70,7 +70,7 @@ def load_and_validate_ground_truth(csv_path, dataset_name):
     # Show dataset statistics
     print(f"📈 {dataset_name}: {len(df)} valid images")
     print(f"🌸 Species distribution:")
-    species_counts = df['flower_name'].value_counts()
+    species_counts = df['species'].value_counts()
     for species, count in species_counts.items():
         print(f"   - {species}: {count} images")
 
@@ -99,7 +99,7 @@ def validate_file_paths(file_paths):
     return valid_paths, missing_paths
 
 
-def get_species_distribution(df, column_name='flower_name'):
+def get_species_distribution(df, column_name='species'):
     """
     📊 Get species distribution from DataFrame
 
@@ -113,7 +113,7 @@ def get_species_distribution(df, column_name='flower_name'):
     return df[column_name].value_counts()
 
 
-def sample_balanced_data(df, n_samples_per_species, species_column='flower_name'):
+def sample_balanced_data(df, n_samples_per_species, species_column='species'):
     """
     🎲 Sample balanced data from DataFrame
 

@@ -1,0 +1,4 @@
+image_name,species,file_path,image_path,blurry_image,humans_present,other_taxa,niqe_score
+Bellis_perennis_55644.jpg,Bellis perennis,E:\iNaturalist\test_images_200\seed_42\Bellis_perennis\Bellis_perennis_55644.jpg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_42/Bellis_perennis/Bellis_perennis_55644.jpg,No,No,Yes,6.1613910574151465
+Bellis_perennis_62623.jpeg,Bellis perennis,E:\iNaturalist\test_images_200\seed_42\Bellis_perennis\Bellis_perennis_62623.jpeg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_42/Bellis_perennis/Bellis_perennis_62623.jpeg,No,No,Yes,6.9359571156788
+Leucanthemum_vulgare_89359.jpeg,Leucanthemum vulgare,E:\iNaturalist\test_images_200\seed_42\Leucanthemum_vulgare\Leucanthemum_vulgare_89359.jpeg,/kaggle/input/inaturalist-flower-images/test_images_200/seed_42/Leucanthemum_vulgare/Leucanthemum_vulgare_89359.jpeg,No,Yes,No,7.447767694826197

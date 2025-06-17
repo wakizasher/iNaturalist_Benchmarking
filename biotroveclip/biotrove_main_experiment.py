@@ -40,7 +40,7 @@ def process_dataset(model, preprocess_val, tokenizer, device, df, flower_species
     # Process each image with progress updates
     for idx, row in df.iterrows():
         image_path = row['file_path']
-        true_species = row['flower_name']
+        true_species = row['species']
 
         # Get prediction
         predicted_species, confidence, all_probs = predict_single_image(
